@@ -22,7 +22,8 @@
 >Protocols on higher layers (such as HTTP) can be left unchanged while still providing a secure connection. Underneath the SSL layer, HTTP is identical to HTTPS.
 
 #### SSL
->Secure Sockets Layer
+>Secure Sockets Layer1. 
+
 #### TLS
 > Transport Layer Security
 > SSL's more secure "successor", TLS is the new version of SSL, 
