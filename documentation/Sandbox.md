@@ -27,3 +27,5 @@
 > Transport Layer Security
 > SSL's more secure "successor", TLS is the new version of SSL, 
  TLS also encrypts data in transit and requires a handshake between two authorized servers before it shows its contents.
+#### Handshake
+>Is a sub-protocol used to negotiate session information between the client and the server. The session information consists of a session ID, peer certificates, the cipher spec to be used, the compression algorithm to be used, and a shared secret that is used to generate keys.
