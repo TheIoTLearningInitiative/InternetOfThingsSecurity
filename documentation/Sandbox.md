@@ -1,6 +1,7 @@
 # Sandbox
 
-http://techcrunch.com/2016/04/22/how-iot-security-can-benefit-from-machine-learning/?utm_content=buffer6ff2b&utm_medium=social&utm_source=twitter&utm_campaign=aeris
+- http://techcrunch.com/2016/04/22/how-iot-security-can-benefit-from-machine-learning/?utm_content=buffer6ff2b&utm_medium=social&utm_source=twitter&utm_campaign=aeris
+- http://techcrunch.com/2015/10/24/why-iot-security-is-so-critical/
 
 ## Importance of Security
 >As the IoT grows, so do the security vulnerabilities of the linked objects.
