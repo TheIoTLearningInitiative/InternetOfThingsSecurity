@@ -56,3 +56,9 @@ MosquittoSSL provides SSL support for encrypted network connections and authent
 >What happens if a new hardware isn’t trusted? 
 >How do I edit my PC’s Secure Boot database? 
 >How can I add hardware or run software or operating systems that haven’t been trusted by my manufacturer? 
+
+
+# 
+
+https://www.npmjs.com/package/lda
+https://github.com/intelsdi-x/snap
