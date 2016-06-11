@@ -65,6 +65,5 @@ https://github.com/intelsdi-x/snap
 spark
 cloudera
 hive
-
 nkkdi
 kafka
