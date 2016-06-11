@@ -62,3 +62,6 @@ MosquittoSSL provides SSL support for encrypted network connections and authent
 
 https://www.npmjs.com/package/lda
 https://github.com/intelsdi-x/snap
+spark
+cloudera
+hive
