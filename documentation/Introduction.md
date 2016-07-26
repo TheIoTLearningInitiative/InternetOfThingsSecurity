@@ -9,6 +9,6 @@ http://conference.hitb.org/hitbsecconf2016ams/training/
 
 ## DTLS
 
-##  Elliptic Curve Cryptography
+## Elliptic Curve Cryptography
 
 
