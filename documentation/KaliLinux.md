@@ -12,7 +12,7 @@ hosts:          files dns
 ```
 
 ```sh
-root@kali:~# nano  ~/.bashrc 
+root@kali:~# nano  ~/.bashrc
 ```
 
 ```sh
