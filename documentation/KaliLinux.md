@@ -28,6 +28,11 @@ root@kali~:# apt-get install openssh-server
 ```
 
 ```sh
+root@kali~:# update-rc.d -f ssh remove
+root@kali~:# update-rc.d -f ssh defaults
+```
+
+```sh
 root@kali:~# nmap 127.0.0.1
 
 Starting Nmap 7.40 ( https://nmap.org ) at 2017-02-26 12:36 CST
