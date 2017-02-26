@@ -23,6 +23,9 @@ pulseaudio -D
 ## SSH
 
 
+```sh
+root@kali~:# apt-get install openssh-server
+```
 
 ```sh
 root@kali:~# nmap 127.0.0.1
